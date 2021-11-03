@@ -1,4 +1,4 @@
-- 👋 Hi, Erich
+- 👋 Hi, My Name is Erich
 - 👀 I’m interested in ...Networking, Security, Powershell Scripting, Learning Coding
 - 🌱 I’m currently learning ... Powershell Scripting Mainly for Active Directory and automation
 - 💞️ I’m looking to collaborate on ...I'm not really
